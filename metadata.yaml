@@ -1,0 +1,34 @@
+_repo: Fragments-of-an-Autobiography_33185
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33185-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Moscheles, Felix
+    birthdate: 1833
+    deathdate: 1917
+    gutenberg_agent_id: '5107'
+    url: http://www.gutenberg.org/2009/agents/5107
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Felix_Moscheles
+    - http://de.wikipedia.org/wiki/Felix_Moscheles
+description: ''
+gutenberg_issued: '2010-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Moscheles, Felix, 1833-1917'
+tableOfContents: Early impressions -- Will you sit for me, Frida? -- Leipsic in 1847
+  and 1848; Mendelssohn's death -- My first commission -- Claude Raoul Dupont -- A
+  trip to America in 1883 -- Grover Cleveland "viewed" -- Giuseppe Mazzini -- Rossini
+  -- Paris after the commune -- Some incidents of Robert Browning's visits to the
+  studio.
+title: Fragments of an Autobiography
+url: http://www.gutenberg.org/ebooks/33185
